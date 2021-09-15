@@ -1,0 +1,7 @@
+the * and ** prefix operators
+  Using * and ** to pass arguments to a function
+  Using * and ** to capture arguments passed into a function
+  Using * to accept keyword-only arguments
+  Using * to capture items during tuple unpacking
+  Using * to unpack iterables into a list/tuple
+  Using ** to unpack dictionaries into other dictionaries
